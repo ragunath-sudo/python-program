@@ -1,0 +1,13 @@
+a=10
+b=3
+x=2.5
+name="ebi"
+sum_val=a+b
+diff=a-b
+product=a*b
+division=a/b
+print("sum=",sum_val)
+print("difference=",diff)
+print("product=",product)
+print("division=",division)
+print("name=",name)
